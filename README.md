@@ -1,2 +1,20 @@
-# aga-insurance
-This is API for our project called AGA. AGA is app about insurance
+# AGA
+
+## This is API for application AGA (Asuransi Glints Academy). How to run this API: 
+
+### Install
+
+$ npm install
+
+#### Start
+
+$ npm start
+
+##### Test
+
+$ npm test
+
+##### Development
+
+$ npm run dev
+
